@@ -1,0 +1,4 @@
+fitz
+shutil
+pandas
+pyautogui
