@@ -1,2 +1,2 @@
 # PSCRAP
-Data extraction, filtering and processing with bot.
+The development of the project has been suspended until the next update.
